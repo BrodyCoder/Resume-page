@@ -46,7 +46,6 @@ html {
 	font-size: 20px;
  }
  .heading-light {
-	 margin: 0px 0px 25px 0px;
 	color: #ffffff;
 	border-bottom: 2px #5a5a5a dashed;
  }
@@ -83,8 +82,8 @@ html {
 	padding-top: 40px;
  }
  .language {
-	width: 105px;
-	height: 105px;
+	width: 100px;
+	height: 100px;
 	border: 6px solid #5c5c5c;
 	border-radius: 50%;
 	display: flex;
@@ -99,12 +98,10 @@ html {
  }
  .language-text {
 	text-transform: uppercase;
-	font-size: 12px
+	font-size: 11px
  }
  .languages-per {
-	 text-align: center;
-	 margin: 5px 0px 0px 0px;
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: 600;
  }
  .lines {
