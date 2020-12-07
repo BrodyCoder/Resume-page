@@ -320,6 +320,9 @@ html {
 	box-shadow: 0 0 10px rgb(189, 189, 189);
  }
 }
+.header-menu1 {
+	display: none;
+}
  @media (max-width: 1024px) {
 	.header-menu {
 		display: none;
