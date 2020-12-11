@@ -197,7 +197,7 @@ html {
 	letter-spacing: 1.5px;
  }
  h2 {
-	font-family: ' Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	letter-spacing: 1px;
  }
  .name {
@@ -233,7 +233,6 @@ html {
 	border-bottom: 1px solid #e0e0e01a;
 	margin-bottom: 37px;
 	color: #000000;
-	font-family: 'Josefin Sans', sans-serif;
  }
  .list {
 	list-style: none;
