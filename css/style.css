@@ -306,17 +306,6 @@ html {
  .level-100:before {
 	width: 100%;
  }
- .level-80:before {
-	width: 80%;
- }
- .level-50:before {
-	width: 50%;
- }
-
-
-
-
- 
  /*header menu*/
  @media (min-width: 992px) {
 	.resume_a_mobile {
@@ -346,9 +335,6 @@ html {
 	box-shadow: 0 0 10px rgb(189, 189, 189);
  }
 }
-
-
-
  @media (max-width: 1024px) {
 	.header-menu {
 		display: none;
@@ -370,7 +356,6 @@ html {
 	.resume_a_mobile:nth-child(1) {
 		margin: 0px 2px 0px 4px;
 	}
-
 	.header-menu_mobile {
 		position: relative;
 		top: 0;
@@ -396,19 +381,7 @@ html {
 	  width: 90%;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
  @media (max-width: 992px) {
-	
 	.container {
 	  flex-direction: column;
 	  width: 70%;
